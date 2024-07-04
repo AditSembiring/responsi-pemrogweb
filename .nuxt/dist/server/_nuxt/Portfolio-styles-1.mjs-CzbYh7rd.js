@@ -1,0 +1,5 @@
+const Portfolio_vue_vue_type_style_index_0_scoped_e9c13cf8_lang = ".portfolio[data-v-e9c13cf8]{background-color:#181818;padding:80px 0;text-align:center}.portfolio h2[data-v-e9c13cf8]{font-size:2.5rem;margin-bottom:2rem}.portfolio-grid[data-v-e9c13cf8]{display:grid;gap:30px;grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}.portfolio-item[data-v-e9c13cf8]{border-radius:8px;box-shadow:0 0 20px rgba(0,0,0,.1);overflow:hidden;position:relative}.portfolio-item img[data-v-e9c13cf8]{max-width:100%;transition:transform .3s ease;vertical-align:middle}.portfolio-item:hover img[data-v-e9c13cf8]{transform:scale(1.1)}.overlay[data-v-e9c13cf8]{background-color:rgba(0,0,0,.7);bottom:0;color:#fff;left:0;opacity:0;padding:15px;position:absolute;right:0;transition:background-color .3s ease}.portfolio-item:hover .overlay[data-v-e9c13cf8]{opacity:1}.overlay h3[data-v-e9c13cf8]{font-size:1.5rem;margin-bottom:.5rem}.overlay p[data-v-e9c13cf8]{font-size:1rem}";
+export {
+  Portfolio_vue_vue_type_style_index_0_scoped_e9c13cf8_lang as default
+};
+//# sourceMappingURL=Portfolio-styles-1.mjs-CzbYh7rd.js.map
