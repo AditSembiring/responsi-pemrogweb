@@ -4,7 +4,7 @@
         <div class="hero-content">
           <h1>-ˏˋ⋆ ᴡ ᴇ ʟ ᴄ ᴏ ᴍ ᴇ ⋆ˊˎ-</h1>
           <p>Website Personal Adit.</p>
-          <p>🤓☝️ erm actually</p>
+          <p>☝️🤓 erm actually</p>
 
           <a href="#contact" class="btn">Hubungi Saya</a>
         </div>
