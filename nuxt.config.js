@@ -27,6 +27,26 @@ export default {
     '~/assets/main.css'
   ],
 
+  generate: {
+    fallback: true
+  },
+  router: {
+    scrollBehavior(to, from, savedPosition) {
+      if (savedPosition) {
+        return savedPosition;
+      } else {
+        const position = {};
+        if (to.hash) {
+          position.selector = to.hash;
+          if (document.querySelector(to.hash)) {
+            position.offset = { y: 80 }; // Adjust scrolling offset as needed
+          }
+        }
+        return position;
+      }
+    }
+  },
+
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
 

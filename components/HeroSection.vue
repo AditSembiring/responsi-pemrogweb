@@ -1,5 +1,5 @@
 <template>
-    <section class="hero">
+    <section id="home" class="hero">
       <div class="container">
         <div class="hero-content">
           <h1>Welcome, Adit</h1>
