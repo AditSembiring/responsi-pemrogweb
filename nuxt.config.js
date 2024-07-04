@@ -18,6 +18,10 @@ export default {
     ]
   },
 
+    css: [
+      '~/assets/css/global.css'
+    ],
+
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
     '~/assets/main.css'
